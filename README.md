@@ -1,2 +1,2 @@
 # simpleRoomApp
-this an simple project of integration room library
+an android project with room persistence library integration.
